@@ -1,0 +1,24 @@
+violence detection/dataset/archive/Real Life Violence Dataset
+*.npy
+*.avi
+*.mp4
+*.jpg
+
+
+attack object detection/OD-WeaponDetection-master/Knife classification
+attack object detection/OD-WeaponDetection-master/Knife_detection
+attack object detection/OD-WeaponDetection-master/pictures
+attack object detection/OD-WeaponDetection-master/Pistol classification
+attack object detection/OD-WeaponDetection-master/Pistol detection
+
+
+attack object detection/OD-WeaponDetection-master/Weapons and similar handled objects/runs
+attack object detection/OD-WeaponDetection-master/Weapons and similar handled objects/Sohas_weapon-Classification
+attack object detection/OD-WeaponDetection-master/Weapons and similar handled objects/Sohas_weapon-Detection
+
+data
+pose classification_coordination
+runs
+test_videos
+
+violence detection/yolov5x6u.pt
